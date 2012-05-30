@@ -1,0 +1,7 @@
+# CV Content
+
+Modularised CV content as `jade` includes. Assumes HTML5 support and Bootstrap.
+
+## Author
+
+Copyright 2012 Tom Vincent <http://tlvince.com/contact/>
